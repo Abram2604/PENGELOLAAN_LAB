@@ -1,0 +1,6 @@
+@PENGELOLAAN_LAB_HostAddress = http://localhost:5094
+
+GET {{PENGELOLAAN_LAB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
